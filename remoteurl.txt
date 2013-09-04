@@ -1,1 +1,2 @@
-git://github.com/jackin853/custom.git
+要克隆的开始url为：git://github.com/jackin853/custom.git
+最后提交的url为：http://github.com/jackin853/custom.git
